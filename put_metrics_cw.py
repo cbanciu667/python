@@ -9,7 +9,7 @@ import psutil
 import requests
 
 NAMESPACE = 'onPrem'
-INSTANCE_NAME = 'node01.bcosmin.net'
+INSTANCE_NAME = 'blabla.bcosmin.net'
 INSTANCE_TYPE = 'non-ec2'
 os.environ.setdefault('AWS_DEFAULT_REGION', 'eu-central-1')
 
